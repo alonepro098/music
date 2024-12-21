@@ -1,11 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Aditya-Player"><img src="[https://graph.org/file/5dde07baff72a1523b769.jpg](https://graph.org/file/5dde07baff72a1523b769.jpg)" height="270" width="480" alt="Genius-Userbot"/></a>
-</p>
-
-<p align="center">
-<b>Aditya-Player</b><br/>
-Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot.
-</p>
+<img src="[https://graph.org/file/5dde07baff72a1523b769.jpg]
 
 <h2>🤖 Aditya-Player Info</h2>
 <p title="Aditya-Player">Aditya-Player is an open-source Telegram multi-featured vc streaming bot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
