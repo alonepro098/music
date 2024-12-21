@@ -13,6 +13,10 @@ Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot
 <h2>♨️ Host AdityaPlayer On VPS Server</h2>
 
 
+# Deploying
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alonepro098/music)
+
+
 **1. At First Copy & Paste Below Command.**
 
 ```apt update -y && apt install sudo -y && sudo apt install curl ffmpeg git nano python3-pip screen -y && cd && rm -rf AdityaPlayer && git clone https://github.com/AdityaHalder/AdityaPlayer && cd AdityaPlayer && pip3 install -r requirements.txt --force-reinstall && screen -R AdityaPlayer```
