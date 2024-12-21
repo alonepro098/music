@@ -145,7 +145,7 @@ __start_time__ = time.time()
 
 
 async def main():
-    LOGGER.info("🐬 Updating Directories ...")
+    LOGGER.info("🗿 Updating Directories ...")
     if "cache" not in os.listdir():
         os.mkdir("cache")
     if "cookies.txt" not in os.listdir():
